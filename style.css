@@ -43,3 +43,15 @@ body {
   border: 2px solid var(--transp-white-2);
   border-radius: 50%;
 }
+.shape-1{
+  height: 13em;
+  width: 13em;
+  right: -8.5em;
+  top: 1.8em;
+}
+.shape-2{
+  height: 11em;
+  width: 11em;
+  bottom: -3.7em;
+  left: -2.5em;
+}
