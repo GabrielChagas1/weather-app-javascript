@@ -80,3 +80,8 @@ body {
 .search-container input:focus{
   border-color: var(--white);
 }
+.search-container button{
+  color: var(--blue-2);
+  background-color: var(--white);
+  border-radius: .3em;
+}
