@@ -74,3 +74,6 @@ body {
   color: var(--white);
   font-weight: 300;
 }
+.search-container input::placeholder{
+  color: var(--off-white);
+}
