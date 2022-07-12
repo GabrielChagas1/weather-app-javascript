@@ -77,3 +77,6 @@ body {
 .search-container input::placeholder{
   color: var(--off-white);
 }
+.search-container input:focus{
+  border-color: var(--white);
+}
