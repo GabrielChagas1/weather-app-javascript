@@ -35,3 +35,5 @@ let cityRef = document.getElementById("city");
     }
 }
 
+window.addEventListener('load', getWeather);
+searchBtn.addEventListener("click", getWeather);
