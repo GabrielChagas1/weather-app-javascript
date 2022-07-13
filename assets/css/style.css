@@ -142,3 +142,8 @@ body {
   text-transform: uppercase;
   letter-spacing: 0.1em;
 }
+@media screen and (max-width: 450px) {
+  .wrapper {
+    font-size: 14px;
+  }
+}
