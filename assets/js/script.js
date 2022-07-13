@@ -28,3 +28,10 @@ let cityRef = document.getElementById("city");
                 </div>
             </div>
             `
+        }).catch(() => {
+            // If city name is not valid
+            result.innerHTML = `<h3 class="msg">City not found!</h3>`
+        })
+    }
+}
+
